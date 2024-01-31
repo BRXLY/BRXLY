@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BRXLY
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python , C++ & Java script
-- 💞️ I’m looking to collaborate on Microsoft
-- 📫 You can find me in TG t.me/MOHSIN_KABIR70
+- 👋 Hi, I’m a lazy human :)
+- 👀 I’m interested in sleeping zzzzzzzzzz
+- 🌱 I’m currently learning basics :3
+- 💞️ I’m looking to collaborate with none :)
+- 📫 You can find me at home :)
 
 <!---
 BRXLY/BRXLY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
